@@ -5,8 +5,8 @@ from discord.ui import Button, View, Select
 import datetime
 
 # ====== CONFIGURE AQUI ======
-TICKET_CATEGORY_ID = 123456789012345678  # ID da categoria onde os tickets serão criados
-STAFF_ROLE_ID = 123456789012345678       # ID do cargo da staff
+TICKET_CATEGORY_ID = 1546501279776505906  # ID da categoria onde os tickets serão criados
+STAFF_ROLE_ID = 1546500993431113819       # ID do cargo da staff
 LOG_CHANNEL_ID = 123456789012345678      # ID do canal de logs (opcional)
 # ============================
 
